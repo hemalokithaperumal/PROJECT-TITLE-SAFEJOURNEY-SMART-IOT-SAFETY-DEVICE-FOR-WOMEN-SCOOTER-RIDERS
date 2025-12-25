@@ -8,25 +8,39 @@ This project proposes an IoT-enabled safety mechanism that continuously monitors
 ## Features
 
 Automatic detection of abnormal motion indicating emergency situations
+
 Panic alert mechanism for emergency triggering
+
 Emergency alert message with location details
+
 Simulation-based implementation for easy testing
+
 Low-cost and scalable design
+
 Suitable for two-wheeler safety applications
+
 Fast response and minimal processing delay
 
 ## Requirements
 # Hardware Requirements (Optional – for real implementation)
 
 Arduino Uno / ESP32 (optional)
+
 Accelerometer sensor (e.g., MPU6050)
+
 GPS module (optional)
+
 GSM / IoT communication module (optional)
+
 # Software Requirements
 Operating System: Windows 10 / Ubuntu (64-bit)
+
 Development Environment: Arduino IDE
+
 Simulation Tool: Wokwi (Online Arduino Simulator)
+
 Programming Language: Embedded C / Arduino C
+
 Version Control: Git and GitHub
 
 ## System Architecture
