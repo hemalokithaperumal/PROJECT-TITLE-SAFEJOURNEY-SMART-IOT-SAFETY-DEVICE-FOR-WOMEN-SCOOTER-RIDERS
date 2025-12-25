@@ -53,29 +53,29 @@ The SAFEJOURNEY system demonstrates how IoT technology can be effectively used t
 ## Articles published / References
 
 ·  Chen, L., et al. (2017). Continuous Vehicle Tracking Using GPS and GSM Technologies. IEEE Transactions on Intelligent Transportation Systems.
+
 ·  Vijayalakshmi, S., & Elango, R. (2017). IoT-Based Smart Vehicle Tracking and Theft Prevention System. International Journal of Advanced Research in Computer Science.
+
 ·  Arvind, K., & Senthil, M. (2018). Real-Time Vehicle Tracking Using IoT. Springer Proceedings of Smart Computing.
+
 ·  Dong, Y., et al. (2020). WatchDog: Edge-Based Real-Time Vehicle Tracking with IoT. arXiv preprint.
+
 ·  Li, H., et al. (2020). Vehicle Tracking Using Deep Reinforcement Learning with IoT Sensors. arXiv preprint.
+
 ·  Balani, S., & Mustafa, K. (2024). Developing Vehicle Monitoring Systems via IoT and GSM. International Journal of Intelligent Systems and Applications Engineering.
+
 ·  Silva, P., et al. (2025). Real-Time Vehicle Tracking Using IoT, Geolocation, and Cloud Infrastructure. International Journal of Computer Science.
+
 ·  Sahu, P., & Behera, R. (2019). Personal Safety Alert System Using Bluetooth Low Energy. IEEE Conference on Communication and IoT.
+
 ·  Dixit, S., & Kapoor, V. (2020). IoT-Enabled Panic Alert System for Women Safety. International Journal of Engineering Research & Technology.
+
 ·  Rawat, R., & Garg, A. (2019). Women Safety System Using IoT with GSM Module. IEEE International Conference on Electronics and Communication Systems.
+
 ·  Aditya, P., & Sharma, R. (2021). GPS and GSM-Based Women Safety Alert Device. International Journal of Innovative Research in Computer Science.
+
 ·  Rathod, V., & Chauhan, A. (2019). Women Safety Using Wireless Sensor Networks and IoT. Springer Advances in Intelligent Systems.
+
 ·  Harikiran, J., et al. (2016). Smart Security Solution for Women Using IoT. Springer Smart Innovation, Systems and Technologies.
+
 ·  Ahir, S., et al. (2018). The Personal Stun – Women Safety Device. Springer Lecture Notes in Electrical Engineering.
-·  Helen, A., et al. (2017). Watch Me: IoT Device for Women Safety. Springer Proceedings in Security and Privacy.
-·  Bhilare, P., et al. (2015). Women Employee Security System Using GPS and GSM. International Journal of Engineering Research & Technology.
-·  Sen, A., et al. (2019). ProTecht: IoT-Based 3-Way Women Safety Device. International Journal of Engineering Research & Technology.
-·  Kabir, F., & Tasneem, S. (2020). Smart Band and Cloud-Based Women Safety App (CWS). IJERT.
-·  Kohli, N., & Singh, M. (2021). Women Safety Device with GPS Tracking and Alerts. IJRASET.
-·  Priya, R., et al. (2021). IoT-Based Women Safety Device with Self-Defense Mechanism. IJRASET.
-·  Panda, S., et al. (2022). GPS and IoT-Based Women Safety Device. IJRASET.
-·  Rohilla, S., et al. (2022). Women Safety Device with Emergency SMS and Call Functionality. IJRASET.
-
-
-
-
-
